@@ -1,0 +1,11 @@
+h1{
+    border: 2px solid red;
+    text-align: center;
+}
+div{
+    border: 2px solid blue;
+}
+span{
+    border: 2px solid black;
+
+}

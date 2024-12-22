@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+  }
+  
+  body {
+    background-image: url("Black Simple Dark Graphic Design Portfolio Website UI Prototype.svg");
+    height: 98%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
